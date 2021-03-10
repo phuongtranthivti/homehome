@@ -1,0 +1,50 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+#all{
+    width: 100%;
+    font-size: 18px;
+}
+#first_body{
+
+    border-radius: 8px;
+    background-color: #2a88bd;
+    width: 100%;
+    height: 50px;
+    font-family: Bahnschrift;
+    font-size: 36px;
+}
+
+#body_button {
+    height: 80px;
+    width: 100%;
+    align-content: end;
+}
+
+button{
+    color: white;
+    padding: 10px 25px ;
+    text-decoration-color: #9d9d9d;
+    border-radius: 6px;
+    align-content: end;
+}
+
+input[type=text], input[type=password], input[type=email] {
+    width: 200px;
+    height: 30px;
+    border: 2px solid #2a88bd;
+    border-radius: 6px;
+}
+
+#company{
+    margin-left: 42px;
+}
+#email{
+    margin-left: 75px;
+}
+#status{
+    margin-left: 70px;
+}
